@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirtan</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 
-- 🌱 I’m currently learning **Data Science , Web Developments**
+- 🌱 I’m currently learning **Data Science , Data Analytics**
 
 - 📫 How to reach me **sonikirtan100@gmail.com**
 
