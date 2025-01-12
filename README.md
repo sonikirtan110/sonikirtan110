@@ -9,8 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="
-www.linkedin.com/in/kirtansoni02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirtan soni" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kirtansoni02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirtan soni" height="30" width="40" /></a>
 <a href="https://kaggle.com/sonikirtan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soni kirtan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sonikirtan110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sonikirtan110" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sonikirtan110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sonikirtan110" height="30" width="40" /></a>
