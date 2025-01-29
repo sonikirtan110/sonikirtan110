@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirtan Soni</h1>
-<h3 align="center">A Aspiring Data Analyst from India</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=sonikirtan110&label=Profile%20views&color=0e75b6&style=flat" alt="sonikirtan110" /> </p>🌱 I’m currently learning Data Analytics
+<h3 align="center">A Aspiring Data Analyst from India</h3><p align="left">  </p>🌱 I’m currently learning Data Analytics
 
 📫 How to reach me sonikirtan2004@gmail.com
 
