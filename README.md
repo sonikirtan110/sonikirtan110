@@ -44,12 +44,15 @@
   </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
+  </a>
 </p>
 
 <div style="display: flex; align-items: flex-start;">
   <div>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonikirtan110&show_icons=true&locale=en&layout=compact" alt="sonikirtan110" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonikirtan110&show_icons=true&locale=en&layout=compact&langs_count=5&hide=jupyter" alt="sonikirtan110" /></p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonikirtan110&show_icons=true&locale=en" alt="sonikirtan110" /></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonikirtan110&" alt="sonikirtan110" /></p>
   </div>
